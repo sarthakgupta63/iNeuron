@@ -1,2 +1,2 @@
 # iNeuron
-Assigments and Codebases for iNeuron Courses/Internship
+Assigments and Codebases for iNeuron Courses
